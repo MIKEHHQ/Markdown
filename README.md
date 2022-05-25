@@ -1,6 +1,6 @@
 # Markdown
 ---
-/ `Open Source Control View`
+
 ## Introduction
 
 This is a repositories of Markdown examples.
