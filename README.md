@@ -1,13 +1,13 @@
 # Markdown
 ---
-
+---
 ## Introduction
 
 This is a repositories of Markdown examples.
-Try Markdown on VSCode.
+Try Markdown on VSCode, etc.
 
 ## Code
-
+---
 ```python
 print(
     Hello Markdown!
@@ -27,7 +27,7 @@ graph TD;
     G-->F
     C-->H;
 ```
-
+---
 ```mermaid
 graph LR;
 a==>b;
@@ -44,7 +44,7 @@ subgraph 图表名;
         id3--无箭头---id5((圆形))
     end
 ```
-
+---
 ```mermaid
 sequenceDiagram
     participant Alice
@@ -58,7 +58,10 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+---
 ![[pic.png]]
+
+---
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DDenhancedmarkdown
