@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "beb246731ad5abb0",
+        "id": "eebc374539801861",
         "type": "leaf",
+        "dimension": 50.858034321372855,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,11 +15,12 @@
             "source": false
           }
         },
-        "group": "b7a408434fb076c5"
+        "group": "1e8974a7625c5dcb"
       },
       {
-        "id": "39c0aaf7abb88649",
+        "id": "9ae24b90d6d097b1",
         "type": "leaf",
+        "dimension": 49.141965678627145,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,7 +29,7 @@
             "source": false
           }
         },
-        "group": "b7a408434fb076c5"
+        "group": "1e8974a7625c5dcb"
       }
     ],
     "direction": "vertical"
@@ -111,8 +113,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5e73fe1a01104502",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "16de3eb6aa5c2a48",
@@ -132,10 +143,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "beb246731ad5abb0",
+  "active": "eebc374539801861",
   "lastOpenFiles": [
     "README.md",
-    "2022-05-25.md",
-    "pic.png"
+    "pic.png",
+    "README.pdf",
+    "Excalidraw/Drawing 2022-05-25 21.29.30.excalidraw.md",
+    "Day Planners/Day Planner-20220525.md",
+    "2022-05-25.md"
   ]
 }

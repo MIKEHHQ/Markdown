@@ -1,18 +1,21 @@
 # Markdown
 ---
----
+
 ## Introduction
 
 This is a repositories of Markdown examples.
 Try Markdown on VSCode, etc.
 
 ## Code
----
+
 ```python
 print(
     Hello Markdown!
 )
 ```
+# Table
+| Name | 
+| ---- |
 
 ## Mermaid
 
@@ -27,7 +30,7 @@ graph TD;
     G-->F
     C-->H;
 ```
----
+
 ```mermaid
 graph LR;
 a==>b;
@@ -44,7 +47,7 @@ subgraph 图表名;
         id3--无箭头---id5((圆形))
     end
 ```
----
+
 ```mermaid
 sequenceDiagram
     participant Alice
@@ -58,14 +61,14 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
----
+
 ![[pic.png]]
 
----
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DDenhancedmarkdown
-    title 为mermaid加入甘特图功能
+    title 为Mermaid加入甘特图功能
     section A部分
     完成任务        :crit,done, des1,2019-01-06,2019-01-08
     正进行任务      :active, des2,2019-01-09,3d
@@ -79,3 +82,4 @@ gantt
     为rendere编写test: 2d
     将功能加入到mermaid: 1d
 ```
+
