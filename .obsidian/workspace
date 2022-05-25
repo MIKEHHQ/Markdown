@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "642b7a81445478cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb246731ad5abb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "cdbc2ad9cf7febc1"
+      },
+      {
+        "id": "39c0aaf7abb88649",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "cdbc2ad9cf7febc1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f280cd9f52440df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f4570a72f373321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64cedb2accf5f9fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74539de0fe762b30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74492824a1379ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b961a98796551ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167e3c260a8843c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d408c72ae917f79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "0cc9e0b191c242ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "beb246731ad5abb0",
+  "lastOpenFiles": [
+    "README.md",
+    "pic.png"
+  ]
+}

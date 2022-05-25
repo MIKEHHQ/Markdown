@@ -1,11 +1,9 @@
 # Markdown
-
 ---
-
+/ `Open Source Control View`
 ## Introduction
 
 This is a repositories of Markdown examples.
-
 Try Markdown on VSCode.
 
 ## Code
@@ -23,7 +21,7 @@ graph TD;
     A-->B;
     A-->C;
     A-->D;
-    M;
+    M-->H;
     B-->F;
     B-->G;
     G-->F
@@ -60,7 +58,7 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
-
+![[pic.png]]
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DDenhancedmarkdown
