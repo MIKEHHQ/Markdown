@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 50.858034321372855,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Caculator+-.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "1e8974a7625c5dcb"
       },
@@ -22,12 +18,8 @@
         "type": "leaf",
         "dimension": 49.141965678627145,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Caculator+-.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "1e8974a7625c5dcb"
       }
@@ -85,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caculator+-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Caculator+-.md"
-              }
+              "state": {}
             }
           },
           {
