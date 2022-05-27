@@ -133,7 +133,11 @@ void insert(struct hashTable** hashtable, int key, int val){
     //"key" 是具体的键名, 会在编译的时候被宏替换
 }
 ```
-删除C
+-   HASH_ADD_INT表示添加的键值为int类型。
+-   HASH_ADD_STR表示添加的键值为字符串类型。
+-   HASH_ADD_PTR表示添加的键值为指针类型。
+-   HASH_ADD表示添加的键值可以是任意类型。
+- 删除C
 ```C
 void del(struct hashTable** hashtable, int key){
     struct hashTable* tem = find(hashtable, key);

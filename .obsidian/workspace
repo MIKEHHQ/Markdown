@@ -6,7 +6,7 @@
       {
         "id": "eebc374539801861",
         "type": "leaf",
-        "dimension": 50.858034321372855,
+        "dimension": 17.31669266770671,
         "state": {
           "type": "markdown",
           "state": {
@@ -20,7 +20,7 @@
       {
         "id": "9ae24b90d6d097b1",
         "type": "leaf",
-        "dimension": 49.141965678627145,
+        "dimension": 82.68330733229328,
         "state": {
           "type": "markdown",
           "state": {
@@ -143,7 +143,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eebc374539801861",
+  "active": "9ae24b90d6d097b1",
   "lastOpenFiles": [
     "Leetcode Code/find_sum/FindSum.md",
     "Leetcode Code/Caculator+-/Caculator+-.md",
