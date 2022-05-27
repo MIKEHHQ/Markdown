@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 50.858034321372855,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Leetcode Code/find_sum/未命名.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "1e8974a7625c5dcb"
       },
@@ -18,8 +22,12 @@
         "type": "leaf",
         "dimension": 49.141965678627145,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Leetcode Code/find_sum/未命名.md",
+            "mode": "preview",
+            "source": false
+          }
         },
         "group": "1e8974a7625c5dcb"
       }
@@ -77,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode Code/find_sum/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode Code/find_sum/未命名.md"
+              }
             }
           },
           {
@@ -132,12 +143,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9ae24b90d6d097b1",
+  "active": "eebc374539801861",
   "lastOpenFiles": [
+    "Leetcode Code/find_sum/未命名.md",
+    "Leetcode Code/Caculator+-/Caculator+-.md",
+    "README.pdf",
+    "pic.png",
     "Caculator+-.md",
     "README.md",
-    "pic.png",
-    "README.pdf",
     "Excalidraw/Drawing 2022-05-25 21.29.30.excalidraw.md",
     "Day Planners/Day Planner-20220525.md",
     "2022-05-25.md"
