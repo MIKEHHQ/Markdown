@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leetcode Code/find_sum/未命名.md",
+            "file": "Leetcode Code/find_sum/FindSum.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leetcode Code/find_sum/未命名.md",
+            "file": "Leetcode Code/find_sum/FindSum.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode Code/find_sum/未命名.md",
+                "file": "Leetcode Code/find_sum/FindSum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode Code/find_sum/未命名.md"
+                "file": "Leetcode Code/find_sum/FindSum.md"
               }
             }
           },
@@ -145,7 +145,7 @@
   },
   "active": "eebc374539801861",
   "lastOpenFiles": [
-    "Leetcode Code/find_sum/未命名.md",
+    "Leetcode Code/find_sum/FindSum.md",
     "Leetcode Code/Caculator+-/Caculator+-.md",
     "README.pdf",
     "pic.png",
