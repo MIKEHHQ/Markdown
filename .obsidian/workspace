@@ -6,11 +6,11 @@
       {
         "id": "eebc374539801861",
         "type": "leaf",
-        "dimension": 55.69422776911076,
+        "dimension": 54.05616224648986,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Leetcode Code/find_sum/FindSum.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "9ae24b90d6d097b1",
         "type": "leaf",
-        "dimension": 44.30577223088923,
+        "dimension": 45.94383775351014,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Leetcode Code/find_sum/FindSum.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Leetcode Code/find_sum/FindSum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Leetcode Code/find_sum/FindSum.md"
               }
             }
           },
@@ -145,9 +145,10 @@
   },
   "active": "eebc374539801861",
   "lastOpenFiles": [
+    "Leetcode Code/find_sum/FindSum.md",
+    "Leetcode Code/find_sum/image.png",
     "README.md",
     "README.pdf",
-    "Leetcode Code/find_sum/FindSum.md",
     "Leetcode Code/Caculator+-/Caculator+-.md",
     "pic.png",
     "Caculator+-.md",
