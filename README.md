@@ -62,7 +62,7 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-![[pic.png]]
+![[./pic.png]]
 
 
 ```mermaid
