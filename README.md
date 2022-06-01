@@ -14,7 +14,7 @@ print(
 )
 ```
 # Table
-| Names | 
+| Name | 
 | ---- |
 
 ## Mermaid
