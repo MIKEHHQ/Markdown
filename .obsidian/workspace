@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "STM32Code/429_EXTI/429-Serial.md",
+            "file": "STM32Code/429_Serial/429-Serial.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "STM32Code/429_EXTI/429-Serial.md",
+            "file": "STM32Code/429_Serial/429-Serial.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32Code/429_EXTI/429-Serial.md",
+                "file": "STM32Code/429_Serial/429-Serial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32Code/429_EXTI/429-Serial.md"
+                "file": "STM32Code/429_Serial/429-Serial.md"
               }
             }
           },
@@ -145,7 +145,7 @@
   },
   "active": "eebc374539801861",
   "lastOpenFiles": [
-    "STM32Code/429_EXTI/429-Serial.md",
+    "STM32Code/429_Serial/429-Serial.md",
     "STM32Code/429_EXTI/429_EXIT.md",
     "Leetcode Code/readme.md",
     "README.md",
