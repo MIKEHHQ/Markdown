@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 54.056162246489855,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Leetcode Code/readme.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "1e8974a7625c5dcb"
       },
@@ -22,12 +18,8 @@
         "type": "leaf",
         "dimension": 45.943837753510145,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Leetcode Code/readme.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "1e8974a7625c5dcb"
       }
@@ -85,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode Code/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode Code/readme.md"
-              }
+              "state": {}
             }
           },
           {

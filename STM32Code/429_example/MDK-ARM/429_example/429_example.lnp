@@ -1,0 +1,14 @@
+--cpu=Cortex-M4.fp.sp
+"429_example\startup_stm32f429xx.o"
+"429_example\main.o"
+"429_example\gpio.o"
+"429_example\stm32f4xx_it.o"
+"429_example\stm32f4xx_ll_gpio.o"
+"429_example\stm32f4xx_ll_rcc.o"
+"429_example\stm32f4xx_ll_utils.o"
+"429_example\stm32f4xx_ll_exti.o"
+"429_example\system_stm32f4xx.o"
+--strict --scatter "429_example\429_example.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "429_example.map" -o 429_example\429_example.axf
