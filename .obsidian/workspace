@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Leetcode Code/readme.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Leetcode Code/readme.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Leetcode Code/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Leetcode Code/readme.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "eebc374539801861",
   "lastOpenFiles": [
+    "Leetcode Code/readme.md",
     "README.md",
     "README.pdf",
     "Leetcode Code/find_sum/FindSum.md",
@@ -153,7 +154,6 @@
     "pic.png",
     "Caculator+-.md",
     "Excalidraw/Drawing 2022-05-25 21.29.30.excalidraw.md",
-    "Day Planners/Day Planner-20220525.md",
-    "2022-05-25.md"
+    "Day Planners/Day Planner-20220525.md"
   ]
 }
