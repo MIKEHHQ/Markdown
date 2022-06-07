@@ -3,6 +3,8 @@
 
 ## Introduction
 
+This is my sample project in EE.
+Except this,
 This is a repositories of Markdown examples.
 Try Markdown on VSCode, etc.
 
