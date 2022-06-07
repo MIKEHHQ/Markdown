@@ -4,32 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "eebc374539801861",
+        "id": "9ae24b90d6d097b1",
         "type": "leaf",
-        "dimension": 54.056162246489855,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "STM32Code/429_Serial/429-Serial.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "1e8974a7625c5dcb"
+        "group": "b9a35e33dcf99d97"
       },
       {
-        "id": "9ae24b90d6d097b1",
+        "id": "3935eabe0e28816e",
         "type": "leaf",
-        "dimension": 45.943837753510145,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "STM32Code/429_Serial/429-Serial.md",
+            "file": "README.md",
             "mode": "preview",
             "source": false
           }
         },
-        "group": "1e8974a7625c5dcb"
+        "group": "b9a35e33dcf99d97"
       }
     ],
     "direction": "vertical"
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32Code/429_Serial/429-Serial.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32Code/429_Serial/429-Serial.md"
+                "file": "README.md"
               }
             }
           },
@@ -143,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eebc374539801861",
+  "active": "3935eabe0e28816e",
   "lastOpenFiles": [
+    "README.md",
+    "README.pdf",
+    "SIMULINK/mat/pic.png",
     "STM32Code/429_Serial/429-Serial.md",
     "STM32Code/429_EXTI/429_EXIT.md",
     "Leetcode Code/readme.md",
-    "README.md",
-    "README.pdf",
     "Leetcode Code/find_sum/FindSum.md",
     "Leetcode Code/find_sum/image.png",
     "Leetcode Code/Caculator+-/Caculator+-.md",
-    "pic.png",
-    "Caculator+-.md"
+    "pic.png"
   ]
 }
