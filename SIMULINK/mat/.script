@@ -1,0 +1,3 @@
+config load "E:\STM32CUBEMX\mat\mat.ioc"
+project generate ui
+exit wait

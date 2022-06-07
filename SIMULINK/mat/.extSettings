@@ -1,0 +1,6 @@
+[ProjectFiles]
+HeaderPath=E:\STM32CUBEMX\mat\Drivers\CMSIS\Core\Include;E:\STM32CUBEMX\mat\Drivers\CMSIS\DSP\Include;E:\STM32CUBEMX\mat\mat\Inc;D:\MATLAB\R2022a\simulink\include;
+[Groups]
+MATLAB=E:\STM32CUBEMX\mat\mat\Src\mat.c;E:\STM32CUBEMX\mat\mat\Src\mat_USART.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM4;MemUnit_T:uint8_T;MATLAB_PROJECT;

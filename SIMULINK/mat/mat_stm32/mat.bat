@@ -1,0 +1,4 @@
+
+set MATLAB=D:\MATLAB\R2022a
+
+"%MATLAB%\bin\%MATLAB_WIN_VER%\gmake" -f mat.mk  GENERATE_ASAP2=0 OPTS="-DTID01EQ=0"

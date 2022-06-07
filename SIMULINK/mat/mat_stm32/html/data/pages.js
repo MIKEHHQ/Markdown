@@ -1,0 +1,1 @@
+var reportPages = [["Summary","mat_survey.html"],["Subsystem Report","mat_subsystems.html"],["Code Interface Report","mat_interface.html"],["Traceability Report","mat_trace.html"],["Static Code Metrics Report","mat_metrics.html"],["Code Replacements Report","mat_replacements.html"],["Coder Assumptions","mat_coderassumptions.html"]];
