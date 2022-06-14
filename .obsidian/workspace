@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3935eabe0e28816e",
+  "active": "9ae24b90d6d097b1",
   "lastOpenFiles": [
     "README.md",
+    "LeetcodeCode/find_sum/FindSum.md",
+    "LeetcodeCode/Caculator+-/Caculator+-.md",
     "README.pdf",
     "SIMULINK/mat/pic.png",
     "STM32Code/429_Serial/429-Serial.md",
     "STM32Code/429_EXTI/429_EXIT.md",
     "Leetcode Code/readme.md",
     "Leetcode Code/find_sum/FindSum.md",
-    "Leetcode Code/find_sum/image.png",
-    "Leetcode Code/Caculator+-/Caculator+-.md",
-    "pic.png"
+    "Leetcode Code/find_sum/image.png"
   ]
 }
